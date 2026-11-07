@@ -1,0 +1,14 @@
+# Proteus backups and generated artifacts
+*.pdsbak
+*.bak
+*.tmp
+*.log
+*.workspace
+*.workspace.*
+*.lock
+*.DSN.backup
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
